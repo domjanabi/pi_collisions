@@ -2,6 +2,7 @@
 
 This program lets two blocks of different mass collide against eachother until their collisions compute the digits of pi.
 It was inspired by a coding train video.
+It generates very basic sound based on the frequency of the collisions.
 
 ## Screenshots
 
